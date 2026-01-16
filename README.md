@@ -1,4 +1,5 @@
 <h1 align="center">안녕하세요, 백엔드 개발자 강경아입니다 👋</h1>
+
 ### 👨‍💻 About Me
 백엔드 엔지니어 지망생입니다.  
 
@@ -14,4 +15,5 @@
 - 데이터 정합성 중심 설계
 
 
+## Contribute
 ![](profile-3d-contrib/profile-south-season.svg)
