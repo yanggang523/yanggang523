@@ -5,7 +5,6 @@
 
 - 🎓 경상국립대학교 전자공학부, 2021 ~ 2025
 - 🚀 멋쟁이사자처럼 10기 / 11기 운영진
-- 📌 Microsoft AI School 참가 (예정/수료)
 
 ## ⭐ Featured Projects
 
